@@ -1,0 +1,22 @@
+Pre-condition:
+Below application should be installed :
+NodeJs
+Postgres
+Postman
+
+Tools:
+NodeJS
+Postgresql 
+Rest API
+
+Steps to follow:
+1. Initilize the project:
+npm init -y
+This creats package.json file.
+2. npm -i --save express
+using express framework for our code
+3. npm -i pg
+
+
+
+
