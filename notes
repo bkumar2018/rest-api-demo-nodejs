@@ -13,9 +13,12 @@ Steps to follow:
 1. Initilize the project:
 npm init -y
 This creats package.json file.
-2. npm -i --save express
+2. npm install express
 using express framework for our code
-3. npm -i pg
+3. npm install pg
+Used this for postgresql db connection store and retrieve data.
+
+
 
 
 
