@@ -19,7 +19,7 @@ using express framework for our code
 Used this for postgresql db connection store and retrieve data.
 
 
-
-
+Start server:
+node server.js
 
 
