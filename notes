@@ -23,3 +23,6 @@ Start server:
 node server.js
 
 
+docker pull postgres
+docker run -d --name postgresCont -p 5432:5432 postgres
+
