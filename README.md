@@ -10,3 +10,7 @@ Tools:
 NodeJS
 Postgresql 
 Rest API
+
+
+Run api server:
+node server.js
